@@ -1,4 +1,3 @@
-# [README.md](https://github.com/user-attachments/files/23782865/README.md)
 # Automated Deployment System
 ## n8n + Notion + Claude AI + GitHub Integration
 
